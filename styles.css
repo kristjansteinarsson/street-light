@@ -2,7 +2,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 120vh;
+    height: 100vh;
     margin: 0;
     background-color: cyan;
 }
@@ -33,6 +33,7 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, 20%);
+  border-radius: 0 0 10px 10px;
 }
 
 #one{
